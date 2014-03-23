@@ -9,4 +9,4 @@ Fork the repository and clone into your system - [github:help - fork a repo](htt
 
 #### step 2:
 
-Do "Pull Request"
+Do "Pull Request" - [github:help - Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request)
